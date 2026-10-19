@@ -1,10 +1,10 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Phung%20Minh%20Hien&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=IT%20Student%20%40%20PTIT%20%E2%80%A2%20AI%20Lab&descAlignY=58&descSize=18&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Phung%20Minh%20Hien&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=IT%20Student%20%40%20Posts%20and%20Telecommunications%20Institute%20of%20Technology%20%E2%80%A2%20AI%20Lab&descAlignY=58&descSize=18&animation=twinkling" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9FD6&center=true&vCenter=true&width=560&lines=Hi+there%2C+I%27m+Hien+%F0%9F%91%8B;IT+student+%40+PTIT+%F0%9F%8E%93;Researching+%26+writing+a+paper+%E2%9C%8D%EF%B8%8F;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2C9FD6&center=true&vCenter=true&width=820&lines=Hi+there%2C+I%27m+Hien+%F0%9F%91%8B;IT+student+%40+Posts+and+Telecommunications+Institute+of+Technology+%F0%9F%8E%93;Researching+%26+writing+a+paper+%E2%9C%8D%EF%B8%8F;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -25,7 +25,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="28" height="28" /> About me
 
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" height="20" /> Information Technology student at **PTIT**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" height="20" /> Information Technology student at **Posts and Telecommunications Institute of Technology (PTIT)**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="20" height="20" /> Member of an **AI Lab**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> Currently **researching & writing a paper**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> Always learning something new
