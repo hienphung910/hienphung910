@@ -65,14 +65,6 @@
   <img src="https://streak-stats.demolab.com?user=hienphung910&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hienphung910&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" alt="Trophies" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=hienphung910&theme=tokyo-night&hide_border=true&area=true" alt="Activity graph" />
-</p>
-
 ## 🐍 Contribution snake
 
 <p align="center">
