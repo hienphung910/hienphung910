@@ -50,15 +50,6 @@
   <img src="https://skillicons.dev/icons?i=pytorch,docker,fastapi,postgres&perline=4" alt="Learning" />
 </p>
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" /> Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| 🧑‍⚖️ [**Online-Judge**](https://github.com/hienphung910/Online-Judge) | An OOP project that helps students practise and improve their coding skills | Java |
-| 💰 [**Salary-prediction**](https://github.com/hienphung910/Salary-prediction) | Linear Regression from scratch (Normal Equation) + interactive Streamlit app | Python · NumPy · Streamlit |
-| 📖 [**Web-Python-Flask**](https://github.com/hienphung910/Web-Python-Flask) | Guestbook web app in two versions: a simple one and a modular one with 15 pytest tests | Python · Flask · pytest |
-| 🧮 [**Calculator**](https://github.com/hienphung910/Calculator) | A small calculator written in Python | Python |
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="28" height="28" /> GitHub stats
 
 <p align="center">
