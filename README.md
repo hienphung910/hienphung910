@@ -21,7 +21,6 @@
 - 🎓 Information Technology student at **PTIT** (Posts and Telecommunications Institute of Technology)
 - 🔬 Working in an **AI Lab** — interested in **NLP/LLM applications** and **MLOps / AI Infrastructure**
 - 📄 Published a paper on **Conformal Prediction with TabICL** at **RIVF**
-- 🌱 Currently building a **Vietnamese Retrieval/RAG Evaluation & Serving System**
 - 🎯 Goal: become a *systems engineer who understands AI* — someone who can build, serve and defend ML experiments end to end
 
 ## 🛠️ Tech stack
