@@ -1,77 +1,36 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Phung%20Minh%20Hien&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Conformal%20Prediction%20%E2%80%A2%20Tabular%20Foundation%20Models%20%E2%80%A2%20AI%20Systems&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=210&section=header&text=Phung%20Minh%20Hien&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=IT%20Student%20%40%20PTIT%20%E2%80%A2%20AI%20Lab&descAlignY=58&descSize=18&animation=twinkling" alt="header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9FD6&center=true&vCenter=true&width=620&lines=Hi%2C+I%27m+Hien+%F0%9F%91%8B;Researching+Conformal+Prediction+%F0%9F%93%90;Writing+a+journal+paper+%E2%9C%8D%EF%B8%8F;Tabular+Foundation+Models+%C3%97+Graphs;Building+reliable+AI+systems+%E2%9A%99%EF%B8%8F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2C9FD6&center=true&vCenter=true&width=560&lines=Hi+there%2C+I%27m+Hien+%F0%9F%91%8B;IT+student+%40+PTIT+%F0%9F%8E%93;Researching+%26+writing+a+paper+%E2%9C%8D%EF%B8%8F;Always+learning+something+new+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NOW-Researching%20%26%20writing%20a%20paper-8A2BE2?style=for-the-badge&logo=bookstack&logoColor=white" alt="Now" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Robot.png" alt="Robot" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="40" height="40" />
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="40" height="40" />
 </p>
 
 <p align="center">
   <a href="https://scholar.google.com/citations?user=I2OOw8sAAAAJ&hl=vi"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
-  <a href="https://arxiv.org/abs/2610.08564"><img src="https://img.shields.io/badge/arXiv-2610.08564-B31B1B?style=for-the-badge&logo=arxiv&logoColor=white" alt="arXiv" /></a>
+  <a href="https://github.com/hienphung910?tab=followers"><img src="https://img.shields.io/github/followers/hienphung910?style=for-the-badge&logo=github&label=Followers&color=2c9fd6" alt="Followers" /></a>
   <img src="https://komarev.com/ghpvc/?username=hienphung910&style=for-the-badge&color=2c9fd6&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
 ---
 
-## 🧑‍💻 About me
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Nerd%20Face.png" alt="Nerd Face" width="28" height="28" /> About me
 
-```python
-class Hien:
-    def __init__(self):
-        self.name     = "Phung Minh Hien"
-        self.school   = "PTIT — Faculty of Information Technology"
-        self.lab      = "AI Lab"
-        self.now      = "Researching & writing a journal paper ✍️"
-        self.research = ["Conformal Prediction", "Uncertainty Quantification",
-                         "Tabular Foundation Models", "Graph ML"]
-        self.building = "Vietnamese RAG Evaluation & Serving System"
-        self.goal     = "A systems engineer who understands AI"
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Graduation%20Cap.png" alt="Graduation Cap" width="20" height="20" /> Information Technology student at **PTIT**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Microscope.png" alt="Microscope" width="20" height="20" /> Member of an **AI Lab**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" alt="Memo" width="20" height="20" /> Currently **researching & writing a paper**
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" alt="Books" width="20" height="20" /> Always learning something new
 
-    def motto(self):
-        return "A prediction is only as useful as its uncertainty."
-```
-
-## 🔬 Research
-
-### 📄 Valid for Free: Homophily-Gated Conformal Prediction for Training-Free Node Classification with Tabular Foundation Models
-
-*Nguyen Duy Long, **Phung Minh Hien**, Nguyen Trong Viet, Nguyen Thai Anh* · arXiv 2026 · [Paper](https://arxiv.org/abs/2610.08564) · [PDF](https://arxiv.org/pdf/2610.08564)
-
-> Tabular foundation models can classify graph nodes **without training** on the graph. We give the first reliability study of this setting — and show the uncertainty guarantees come *for free*.
-
-| | Finding |
-|---|---|
-| 🆓 **Training-free** | No training, validation fold or tuning on the target graph |
-| 📐 **Exact guarantee** | A frozen in-context predictor makes split conformal prediction exactly valid in finite samples |
-| 🎯 **Better calibrated** | TabICL has lower ECE than GCN + temperature scaling on 9/10 graphs (mean **0.019** vs **0.029**) |
-| ✂️ **Smaller sets** | Our **HG-DAPS** score cuts prediction-set size by **5.8–17.1%** vs APS on homophilous graphs |
-
-```mermaid
-flowchart LR
-    A["🕸️ Graph"] --> B["📋 Node + neighbourhood<br/>features as table rows"]
-    B --> C["🧠 TabICL<br/>frozen, in-context"]
-    C --> D["📐 Split conformal<br/>calibration"]
-    D --> E["🚦 HG-DAPS<br/>homophily gate"]
-    E --> F["✅ Prediction sets<br/>90% coverage"]
-```
-
-<details>
-<summary><b>🧪 What I'm working on now</b></summary>
-<br/>
-
-- ✍️ Researching and writing a **journal paper** that extends this line of work
-- 🧱 Building a **Vietnamese Retrieval/RAG Evaluation & Serving System** — evaluation first, then serving
-- 📚 Strengthening ML foundations with PyTorch and MLOps tooling
-
-</details>
-
-## 🛠️ Tech stack
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="28" height="28" /> Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,java,flask,mysql,git,github,linux,vscode&perline=8" alt="Tech I use" />
@@ -87,11 +46,11 @@ flowchart LR
 </p>
 
 <p align="center">
-  <b>Currently learning</b><br/>
+  <b><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20" /> Currently learning <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Glowing Star" width="20" height="20" /></b><br/>
   <img src="https://skillicons.dev/icons?i=pytorch,docker,fastapi,postgres&perline=4" alt="Learning" />
 </p>
 
-## 🚀 Featured projects
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="28" height="28" /> Featured projects
 
 | Project | Description | Stack |
 |---|---|---|
@@ -100,7 +59,7 @@ flowchart LR
 | 📖 [**Web-Python-Flask**](https://github.com/hienphung910/Web-Python-Flask) | Guestbook web app in two versions: a simple one and a modular one with 15 pytest tests | Python · Flask · pytest |
 | 🧮 [**Calculator**](https://github.com/hienphung910/Calculator) | A small calculator written in Python | Python |
 
-## 📊 GitHub stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" alt="Bar Chart" width="28" height="28" /> GitHub stats
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=hienphung910&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
@@ -110,6 +69,8 @@ flowchart LR
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=hienphung910&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Snake.png" alt="Snake" width="28" height="28" /> Contribution snake
 
 <p align="center">
   <picture>
@@ -121,7 +82,7 @@ flowchart LR
 
 <!-- Footer -->
 <p align="center">
-  <i>“A prediction is only as useful as its uncertainty.”</i>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Red%20Heart.png" alt="Red Heart" width="24" height="24" /> <b>Thanks for visiting!</b> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="24" height="24" />
 </p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" alt="footer" />
