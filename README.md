@@ -31,9 +31,6 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="28" height="28" /> Tech stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,java,flask,mysql,git,github,linux,vscode&perline=8" alt="Tech I use" />
-</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
